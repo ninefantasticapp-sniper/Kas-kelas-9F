@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kas Kelas Digital",
+  "description": "Aplikasi manajemen kas kelas realtime dengan sistem penarikan Rabu-Kamis, pemindaian cepat AI buku kas bendahara, pencatatan pengeluaran, rekap penunggak, dan Web Push Notification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

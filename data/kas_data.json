@@ -1,0 +1,198 @@
+{
+  "nominalPerSession": 2000,
+  "adminPin": "130711#$$#",
+  "students": [
+    {
+      "id": "std-1",
+      "name": "AFFLAH INTAN NOOR IZZAH",
+      "absen": 1
+    },
+    {
+      "id": "std-2",
+      "name": "AHMAD RENO KHOIDOR MAULANA",
+      "absen": 2
+    },
+    {
+      "id": "std-3",
+      "name": "AMELIA AYU SAFIRA",
+      "absen": 3
+    },
+    {
+      "id": "std-4",
+      "name": "ANGGUN KHAIRUNNISA AZZAHRA",
+      "absen": 4
+    },
+    {
+      "id": "std-5",
+      "name": "ARIFFI KHOIRUN NIZAR",
+      "absen": 5
+    },
+    {
+      "id": "std-6",
+      "name": "ATHALIA WIDYA PRAMESWARI",
+      "absen": 6
+    },
+    {
+      "id": "std-7",
+      "name": "AYU NOVITA DIUSTIRA",
+      "absen": 7
+    },
+    {
+      "id": "std-8",
+      "name": "BISMA NARAENDRA AZKA LAKSANA",
+      "absen": 8
+    },
+    {
+      "id": "std-9",
+      "name": "CALLISTA MICHEILS NATHANIA",
+      "absen": 9
+    },
+    {
+      "id": "std-10",
+      "name": "CYNTHA LIALATUL QUR'AN",
+      "absen": 10
+    },
+    {
+      "id": "std-11",
+      "name": "DEVARA RAKHA ADWIJAYA",
+      "absen": 11
+    },
+    {
+      "id": "std-12",
+      "name": "DHIA AULIA NUR MAKAILA",
+      "absen": 12
+    },
+    {
+      "id": "std-13",
+      "name": "DINI ANGGRAINI",
+      "absen": 13
+    },
+    {
+      "id": "std-14",
+      "name": "FAIRIS ZALFA HERDIANI",
+      "absen": 14
+    },
+    {
+      "id": "std-15",
+      "name": "FIRMAN MAULANA PUTRA",
+      "absen": 15
+    },
+    {
+      "id": "std-16",
+      "name": "GHISTA FELIYANA FAIRIN",
+      "absen": 16
+    },
+    {
+      "id": "std-17",
+      "name": "IBNU SAWQISYAH",
+      "absen": 17
+    },
+    {
+      "id": "std-18",
+      "name": "JULIA PRICILIA TUNGGAL DEWI",
+      "absen": 18
+    },
+    {
+      "id": "std-19",
+      "name": "M. RAFY HANIF ASLAM",
+      "absen": 19
+    },
+    {
+      "id": "std-20",
+      "name": "MOCH ARIEF RAHMAN HAKIM",
+      "absen": 20
+    },
+    {
+      "id": "std-21",
+      "name": "MUHAMMAD CAESAR FAHREZY",
+      "absen": 21
+    },
+    {
+      "id": "std-22",
+      "name": "MUHAMMAD NAUFAL PUTRA RADITYA",
+      "absen": 22
+    },
+    {
+      "id": "std-23",
+      "name": "MUHAMMAD RIZAL TRISANTOSO",
+      "absen": 23
+    },
+    {
+      "id": "std-24",
+      "name": "NAFITA DWI LESTARI",
+      "absen": 24
+    },
+    {
+      "id": "std-25",
+      "name": "NINDIYA CALLISTA PRIMALIA SARI",
+      "absen": 25
+    },
+    {
+      "id": "std-26",
+      "name": "PRADANA RAHADIAN NUGROHO",
+      "absen": 26
+    },
+    {
+      "id": "std-27",
+      "name": "QANIAH SHAKIRAH PULUNGAN",
+      "absen": 27
+    },
+    {
+      "id": "std-28",
+      "name": "SATRIO ANDI BRAMANTIO",
+      "absen": 28
+    },
+    {
+      "id": "std-29",
+      "name": "SAZKIA AULIA PUTRI",
+      "absen": 29
+    },
+    {
+      "id": "std-30",
+      "name": "YANUARTA AINUN NADZAR",
+      "absen": 30
+    },
+    {
+      "id": "std-31",
+      "name": "YULIANA NUR CAHYA",
+      "absen": 31
+    }
+  ],
+  "weeks": [],
+  "payments": {
+    "std-1": {},
+    "std-2": {},
+    "std-3": {},
+    "std-4": {},
+    "std-5": {},
+    "std-6": {},
+    "std-7": {},
+    "std-8": {},
+    "std-9": {},
+    "std-10": {},
+    "std-11": {},
+    "std-12": {},
+    "std-13": {},
+    "std-14": {},
+    "std-15": {},
+    "std-16": {},
+    "std-17": {},
+    "std-18": {},
+    "std-19": {},
+    "std-20": {},
+    "std-21": {},
+    "std-22": {},
+    "std-23": {},
+    "std-24": {},
+    "std-25": {},
+    "std-26": {},
+    "std-27": {},
+    "std-28": {},
+    "std-29": {},
+    "std-30": {},
+    "std-31": {}
+  },
+  "expenses": [],
+  "notifications": [],
+  "lastUpdated": 1791908892145
+}

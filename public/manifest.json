@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Sistem Kas Kelas Digital",
+  "short_name": "Kas Kelas",
+  "description": "Aplikasi manajemen kas kelas realtime dengan sistem penarikan Rabu-Kamis, pencatatan pengeluaran, rekap penunggak, dan Web Push Notification.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f766e",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

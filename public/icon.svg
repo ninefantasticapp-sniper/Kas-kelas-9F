@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+    <linearGradient id="coinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="220" r="130" fill="url(#coinGrad)" stroke="#fef08a" stroke-width="8"/>
+  <circle cx="256" cy="220" r="105" fill="none" stroke="#a16207" stroke-width="5" stroke-dasharray="12 12"/>
+  <text x="256" y="245" font-family="system-ui, sans-serif" font-weight="900" font-size="95" fill="#713f12" text-anchor="middle">Rp</text>
+  <path d="M128 350 C128 330 200 320 256 320 C312 320 384 330 384 350 L384 410 C384 430 312 440 256 440 C200 440 128 430 128 410 Z" fill="#134e4a"/>
+  <path d="M148 370 Q256 390 364 370" stroke="#2dd4bf" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <text x="256" y="420" font-family="system-ui, sans-serif" font-weight="bold" font-size="28" fill="#a7f3d0" text-anchor="middle" letter-spacing="3">KAS KELAS</text>
+</svg>
